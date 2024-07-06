@@ -13,7 +13,7 @@
 [000000]     08 blit_method 0  // 0 auto  1 software (slower but sometimes more reliable)  2 hardware (can do filtered scaling) 
 [000000]     09 foreground_sleep_ms 2 // number of milliseconds to sleep each frame. Try 10 to conserve battery power
 [000000]     10 background_sleep_ms 10 // number of milliseconds to sleep each frame when running in the background
-[000000]     11 sessions 5 // number of times program has been run
+[000000]     11 sessions 6 // number of times program has been run
 [000000]     12 rmb_key 0 // 0 for none  226 for LALT
 [000000]     13 desktop_path 
 [000000]     14 read_controllers_in_background 0
@@ -24,8 +24,8 @@
 [000000]     19 use_wget 0 // (Linux) 1 to use wget for downloads instead of libcurl (must be installed)
 [000000]     20 version 0.2.6b
 [000000]     21 volume 256
-[000000]     22 root_path C:/Users/Michael/AppData/Roaming/pico-8/
-[000000]     23 cdata_path C:/Users/Michael/AppData/Roaming/pico-8/carts/
+[000000]     22 root_path C:/Users/Michael/AppData/Roaming/pico-8/carts/
+[000000]     23 cdata_path C:/Users/Michael/AppData/Roaming/pico-8/
 [000000]     24 joystick_index 0
 [000000]     25 merge_joysticks 0
 [000000]     26 button_keys 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
@@ -51,49 +51,50 @@
 [000000]     46 capture_timestamps 0
 [000000]   
 [000000]   codo_system_init
-[000186]   Compiled against SDL version: 2.0.2
-[000186]   Linked against SDL version:   2.0.9
-[000186]   Current video driver: windows
-[000186]   codo_reset_timer
-[000186]   codo_gui_init
-[000186]   codo_keys_init
-[000186]   codo_text_init
-[000186]   codo_video_init
-[000186]   codo_mouse_init
-[000186]   codo_joystick_init
-[000187]   Reading controller mappings: C:/Users/Michael/AppData/Roaming/pico-8/sdl_controllers.txt
-[000187]   searching for joysticks
-[000187]     found 0 joysticks
-[000187]   ok
-[000187] ok
-[000191] codo_load_pod: C:/Program Files (x86)/PICO-8/pico8.dat ok 
-[000192] codo_set_screen 128 128 8 100
-[000192]  window size: 640 540
-[000337]   setting filter to nearest (screen_mode 0  back page width: 128)
+[000187]   Compiled against SDL version: 2.0.2
+[000187]   Linked against SDL version:   2.0.9
+[000187]   Current video driver: windows
+[000187]   codo_reset_timer
+[000187]   codo_gui_init
+[000187]   codo_keys_init
+[000187]   codo_text_init
+[000187]   codo_video_init
+[000187]   codo_mouse_init
+[000187]   codo_joystick_init
+[000188]   Reading controller mappings: C:/Users/Michael/AppData/Roaming/pico-8/sdl_controllers.txt
+[000188]   searching for joysticks
+[000188]     found 0 joysticks
+[000188]   ok
+[000188] ok
+[000192] codo_load_pod: C:/Program Files (x86)/PICO-8/pico8.dat ok 
+[000193] codo_set_screen 128 128 8 100
+[000193]  window size: 640 540
+[000353]   setting filter to nearest (screen_mode 0  back page width: 128)
   renderer direct3d:
    flags: 0x0000000E ( |  | )
    texture formats (3): ARGB8888, YV12, IYUV
    max texture size: 16384x16384
-[000338]  desktop size: 2194 1234
-[000338] ok
-[000340] codo_sound_init mix_buffer_size: 1024
-[000340] codo_sound_init
-[000340] SDL_INIT_AUDIO ok
-[000356] SDL_OpenAudio ok
-[000356]  freq:22050
+[000354]  desktop size: 2194 1234
+[000354] ok
+[000355] codo_sound_init mix_buffer_size: 1024
+[000355] codo_sound_init
+[000355] SDL_INIT_AUDIO ok
+[000371] SDL_OpenAudio ok
+[000371]  freq:22050
  channels:1
-[000356] Built-in audio drivers: 0 wasapi 1 directsound 2 winmm 3 disk 4 dummy
-[000356] Current audio driver: wasapi
-[002367] splore_init
-[002367] could not load favourites file: C:/Users/Michael/AppData/Roaming/pico-8/favourites.txt
-[059665] window closed (14)
-[059665] codo_exit
-[059665]   cmusic_stop
-[059665]   codo_main_exit
-[059666]   codo_config_save
-[059666]   codo_sound_exit
-[059666]   codo_video_exit
-[059677]   codo_joystick_exit
-[059677]   codo_system_exit
-[059677]   codo_items_created: 1302
-[059677] ok
+[000371] Built-in audio drivers: 0 wasapi 1 directsound 2 winmm 3 disk 4 dummy
+[000371] Current audio driver: wasapi
+[002380] splore_init
+[002380] could not load favourites file: C:/Users/Michael/AppData/Roaming/pico-8/favourites.txt
+[005492] run_cart current_filename: C:/Users/Michael/AppData/Roaming/pico-8/carts/untitled.p8 running_filename: untitled.p8 running_cart_lid: 
+[032926] window closed (14)
+[032926] codo_exit
+[032926]   cmusic_stop
+[032926]   codo_main_exit
+[032927]   codo_config_save
+[032927]   codo_sound_exit
+[032927]   codo_video_exit
+[032941]   codo_joystick_exit
+[032941]   codo_system_exit
+[032941]   codo_items_created: 1302
+[032941] ok
