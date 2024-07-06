@@ -16,7 +16,7 @@ function _update()
 	if btn(⬅️) then x=x-1 end
 	if btn(➡️) then x=x+1 end
 end
--- test
+-- test again
 function _draw()
 	cls()
 	spr(1,x,y)
