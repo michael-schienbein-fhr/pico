@@ -87,3 +87,73 @@
 [002530] splore_init
 [002530] could not load favourites file: C:/Users/m/AppData/Roaming/pico-8/favourites.txt
 [022952] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/carts/demos/hello.p8 running_filename: demos/hello.p8 running_cart_lid: 
+[18452470] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__e50df842701cf9ddbcd175bfd460b868ce0686f4.p8
+[18452470]   not found
+[18453104] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/oblivion_eve-12.p8.png running_filename:  running_cart_lid: oblivion_eve-12
+[18465208] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__15f2acd1d1af2e77cbb259a0786a68f37c3af058.p8
+[18465208]   not found
+[18465211] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/oblivion_eve_gen-6.p8.png running_filename:  running_cart_lid: oblivion_eve_gen-6
+[18467315] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__df0ffe79ab23eca18f9d3d05fd19be6667b3d7b1.p8
+[18467315]   not found
+[18467319] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/oblivion_eve_training-10.p8.png running_filename:  running_cart_lid: oblivion_eve_training-10
+[18494801] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__ad3bf1fc54d8c08472da0b4e2a6c9eac1c43b228.p8
+[18494802]   not found
+[18495432] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/praxis_fighter_x-2.p8.png running_filename:  running_cart_lid: praxis_fighter_x-2
+[19160865] codo_save_png result: 0  file: C:/Users/m/AppData/Roaming/pico-8/backup/20240707_041420_praxis_fighter_x-2.p8.png
+[19414516] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/praxis_fighter_x-2.p8.png running_filename:  running_cart_lid: praxis_fighter_x-2
+[19422259] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__ad3bf1fc54d8c08472da0b4e2a6c9eac1c43b228.p8
+[19422259]   not found
+[19422900] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/praxis_fighter_x-2.p8.png running_filename:  running_cart_lid: praxis_fighter_x-2
+[19456838] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__3d1501236a11b5f4348c7e9a8061c3edfce642eb.p8
+[19456838]   not found
+[19457459] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/picowings_2-0.p8.png running_filename:  running_cart_lid: picowings_2-0
+[19541772] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__5634e724298ddf9a97c7b16ab4dfcb12a6328396.p8
+[19541772]   not found
+[19542402] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/mot_taxi-7.p8.png running_filename:  running_cart_lid: mot_taxi-7
+[103032112] connecting joystick 0
+[103032114] Controller 0: XInput Controller
+[103032114]  Number of Axes: 6
+[103032114]  Number of Buttons: 11
+[103032114]  Number of Balls: 0
+[103032114]  Mapping: 030000005e040000e002000000007801,XInput Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b8,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows
+[103125562] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__19fb78f83c4cd276fabe5b8530fe306e1e46ce13.p8
+[103125562]   not found
+[103126188] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/age_of_ants-7.p8.png running_filename:  running_cart_lid: age_of_ants-7
+[103563930] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__ad3bf1fc54d8c08472da0b4e2a6c9eac1c43b228.p8
+[103563930]   not found
+[103564530] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/praxis_fighter_x-2.p8.png running_filename:  running_cart_lid: praxis_fighter_x-2
+[103774746] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__ecbb93521c685bc6a5f5c716a51ad7abe0aff431.p8
+[103774747]   not found
+[103775368] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/dinkykong-0.p8.png running_filename:  running_cart_lid: dinkykong-0
+[103827282] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__587e2af7083724f0d91834707b171309b0a5d435.p8
+[103827282]   not found
+[103827907] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/dungeon-0.p8.png running_filename:  running_cart_lid: dungeon-0
+[103944194] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__9854b9aacb8f87847b661131c32ccbb63cabc764.p8
+[103944195]   not found
+[103944818] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/witchcrafttd-6.p8.png running_filename:  running_cart_lid: witchcrafttd-6
+[103989406] codo_save_png result: 0  file: C:/Users/m/AppData/Roaming/pico-8/bbs/labels/cherrybomb-0.png
+[103991496] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__82512c8ab5366ae642e9d0345634b50b3d2ef2d2.p8
+[103991496]   not found
+[103992128] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/cherrybomb-0.p8.png running_filename:  running_cart_lid: cherrybomb-0
+[104472311] prepare_loaded_cart: looking for sandboxed cart patch: C:/Users/m/AppData/Roaming/pico-8/cstore/__5bc47788ac912979d6f639848b57ff141b5474b7.p8
+[104472311]   not found
+[104472943] run_cart current_filename: C:/Users/m/AppData/Roaming/pico-8/bbs/carts/speako8-2.p8.png running_filename:  running_cart_lid: speako8-2
+[104524850] codo_save_png result: 0  file: C:/Users/m/AppData/Roaming/pico-8/backup/20240708_035657_speako8-2.p8.png
+[276300054] codo_save_png result: 0  file: C:/Users/m/AppData/Roaming/pico-8/backup/20240710_033944_speako8-2.p8.png
+[518249019] connecting joystick 0
+[518249020] Controller 0: XInput Controller
+[518249020]  Number of Axes: 6
+[518249020]  Number of Buttons: 11
+[518249020]  Number of Balls: 0
+[518249020]  Mapping: 030000005e040000e002000000007801,XInput Controller,a:b0,b:b1,back:b6,dpdown:h0.4,dpleft:h0.8,dpright:h0.2,dpup:h0.1,guide:b10,leftshoulder:b4,leftstick:b8,lefttrigger:a2,leftx:a0,lefty:a1,rightshoulder:b5,rightstick:b9,righttrigger:a5,rightx:a3,righty:a4,start:b7,x:b2,y:b3,platform:Windows
+[578798706] window closed (14)
+[578798706] codo_exit
+[578798706]   cmusic_stop
+[578798706]   codo_main_exit
+[578798714]   codo_config_save
+[578798716]   codo_sound_exit
+[578798716]   codo_video_exit
+[578798738]   codo_joystick_exit
+[578798738]   codo_system_exit
+[578798741]   codo_items_created: 1555
+[578798741] ok
